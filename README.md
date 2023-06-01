@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Darshil Dhandhiya</h1>
-<h3 align="center">I'm a passionate software developer with a love for creating innovative solutions.</h3>
+<h2 align="center">I'm a passionate software developer with a love for creating innovative solutions.</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on internship **E-Commerce**
