@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-[![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)](https://visitcount.itsvg.in)<br><br>
+[![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]()<br><br>
 🔭 I’m currently working on Internship<br>🌱 I’m currently learning JS, NodeJS, Python<br>💬 Ask me about JS, Graphic Design<br>📫 How to reach me darshil.dhandhiya03@gmail.com<br>⚡ Fun fact "The only way to do great work is to love what you do." <br>  - Steve Jobs <br><br>
 
 ## 🌐 Socials:
