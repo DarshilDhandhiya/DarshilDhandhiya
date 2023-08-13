@@ -1,6 +1,6 @@
 import os
 
-target_dates = ["2023-08-24", "2023-08-25", "2023-08-26", "2023-08-27"]
+target_dates = ["2023-08-14", "2023-08-15", "2023-08-17", "2023-08-18", "2023-08-01"]
 
 for target_date in target_dates:
     # Create a commit for the target date
