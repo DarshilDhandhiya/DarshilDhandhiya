@@ -1,58 +1,40 @@
-# Project Name
+# Darshil Dhandhiya
 
-[Add a catchy logo/banner/image if you have one]
+Hi 👋, I'm Darshil Dhandhiya, a passionate software developer with a love for creating innovative solutions.
 
-A brief description of your project.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DarshilDhandhiya/readme-template/main/images/darshil.png" alt="Darshil Dhandhiya" width="150px">
+</p>
 
-[Add any badges, such as build status, license, etc.]
+I'm currently working on an internship as a software engineer. I'm also learning JavaScript, Node.js, and Python. I'm always looking for new challenges and opportunities to learn and grow.
 
-## About the Project
+I'm always happy to help others, so please don't hesitate to reach out if you have any questions or need help with anything.
 
-A more detailed overview of your project. Explain what it does, why it exists, and what problems it solves.
+**Contact:**
 
-## Table of Contents
+* Email: darshil.dhandhiya03@gmail.com
+* LinkedIn: https://linkedin.com/in/darshil-dhandhiya
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+**Tech Stack:**
 
-## Features
+* Programming languages: JavaScript, Python, C/C++, Java
+* Cloud computing platforms: AWS, Azure, Google Cloud
+* Version control systems: Git, GitHub
+* Design tools: Adobe Illustrator, Figma
 
-- Feature 1: Description
-- Feature 2: Description
-- ...
+**Projects:**
 
-## Getting Started
+* [My GitHub Profile README](https://github.com/DarshilDhandhiya/readme-template)
+* [A web application that uses machine learning to predict the price of stocks](https://github.com/DarshilDhandhiya/stock-price-prediction)
+* [A data science project that analyzes the relationship between climate change and sea levels](https://github.com/DarshilDhandhiya/climate-change-sea-levels)
 
-Instructions to help users get started with your project.
+**GitHub Stats:**
 
-### Installation
+* Total commits: 1000+
+* Top languages: JavaScript, Python, Java
+* Top repositories: My GitHub Profile README, Stock Price Prediction, Climate Change Sea Levels
+* GitHub trophies: 10+
 
-1. Step 1
-2. Step 2
-3. ...
+**Random Dev Quote:**
 
-### Usage
-
-1. Example usage or code snippets
-2. ...
-
-## Contributing
-
-Explain how others can contribute to your project.
-
-## License
-
-Specify the license under which your project is distributed.
-
-## Contact
-
-Provide your contact information or ways for users to get in touch with you.
-
----
-
-[Add any additional sections you think are relevant, such as acknowledgments, a changelog, etc.]
+> "The only way to do great work is to love what you do." - Steve Jobs
