@@ -12,17 +12,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,java,python)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,expressjs,mongodb)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,firebase)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=aws,googlecloud)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=photoshop,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,java,python)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,expressjs,mongodb)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,firebase)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=aws,googlecloud)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=photoshop,figma)](https://skills.thijs.gg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DarshilDhandhiya&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
