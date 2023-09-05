@@ -14,7 +14,7 @@
 
 📫 How to reach me **darshil.dhandhiya03@gmail.com**
 
-📝 I regularly write articles on **Medium**
+📝 I regularly write articles on [Medium](https://medium.com/@darshildhandhiya)
 
 ⚡ Fun fact **"The only way to do great work is to love what you do." -Steve Jobs**
 
