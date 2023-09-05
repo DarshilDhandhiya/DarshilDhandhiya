@@ -46,9 +46,6 @@
 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilDhandhiya&layout=compact&theme=bear" alt=DarshilDhandhiya />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DarshilDhandhiya&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DarshilDhandhiya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
