@@ -8,11 +8,33 @@
 🔭 I’m currently working on Internship<br>🌱 I’m currently learning JS, NodeJS, Python<br>💬 Ask me about JS, Graphic Design<br>📫 How to reach me darshil.dhandhiya03@gmail.com<br>⚡ Fun fact "The only way to do great work is to love what you do." <br>  - Steve Jobs <br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshil-dhandhiya) 
+[![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/darshildhandhiya/)
+[![My Skills](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/Darshil03)
+[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/DarshilDhandhiya)
+[![My Skills](https://skills.thijs.gg/icons?i=medium)](https://medium.com/@DarshilDhandhiya)
+[![My Skills](https://skills.thijs.gg/icons?i=dev.io)](https://dev.to/darshildhandhiya)
+[![My Skills](https://skills.thijs.gg/icons?i=hashnode)](https://hashnode.com/@DarshilDhandhiya)
+[![My Skills](https://skills.thijs.gg/icons?i=devto)](https://hashnode.com/@DarshilDhandhiya)
+[![My Skills](https://skills.thijs.gg/icons?i=discord)](https://hashnode.com/@DarshilDhandhiya)
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,java,python)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,bootstrap)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,expressjs,mongodb)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,firebase)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=aws,googlecloud)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=photoshop,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,bootstrap)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,expressjs,express,mongodb)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,firebase,postman)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=vite,vercel,netlify)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=aws,gcp)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=photoshop,figma)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DarshilDhandhiya&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
