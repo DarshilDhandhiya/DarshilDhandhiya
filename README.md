@@ -11,11 +11,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/darshildhandhiya/)
 [![My Skills](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/Darshil03)
 [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/DarshilDhandhiya)
-[![My Skills](https://skills.thijs.gg/icons?i=medium)](https://medium.com/@DarshilDhandhiya)
-[![My Skills](https://skills.thijs.gg/icons?i=dev.io)](https://dev.to/darshildhandhiya)
-[![My Skills](https://skills.thijs.gg/icons?i=hashnode)](https://hashnode.com/@DarshilDhandhiya)
-[![My Skills](https://skills.thijs.gg/icons?i=devto)](https://hashnode.com/@DarshilDhandhiya)
-[![My Skills](https://skills.thijs.gg/icons?i=discord)](https://hashnode.com/@DarshilDhandhiya)
+[![My Skills](https://skills.thijs.gg/icons?i=devto)](https://dev.to/darshildhandhiya)
 
 # 💻 Tech Stack:
 
@@ -23,7 +19,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,bootstrap)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,expressjs,express,mongodb)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,express,mongodb)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=php,mysql,firebase,postman)](https://skills.thijs.gg)
 
