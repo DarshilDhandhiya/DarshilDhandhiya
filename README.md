@@ -5,14 +5,17 @@
 
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]()
+🔭 I’m currently working on **Internship**
+  
+🌱 I’m currently learning **MERN, Python**
 
-- 🔭 I’m currently working on **Internship**
-- 🌱 I’m currently learning **MERN, Python**
-- 💬 Ask me about **MERN, Graphic Design**
-- 📫 How to reach me **darshil.dhandhiya03@gmail.com**
-- 📝 I regularly write articles on **Medium**
-- ⚡ Fun fact **"The only way to do great work is to love what you do." -Steve Jobs**
+💬 Ask me about **MERN, Graphic Design**
 
+📫 How to reach me **darshil.dhandhiya03@gmail.com**
+
+📝 I regularly write articles on **Medium**
+
+⚡ Fun fact **"The only way to do great work is to love what you do." -Steve Jobs**
 
 # 🌐 Socials:
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/darshildhandhiya/)
