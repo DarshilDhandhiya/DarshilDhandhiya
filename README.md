@@ -17,10 +17,11 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,bootstrap,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,bootstrap)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,express,mongodb,)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,firebase,postman,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=firebase,postman)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=vite,vercel,netlify)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=aws,gcp)](https://skills.thijs.gg)
