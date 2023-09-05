@@ -39,17 +39,18 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DarshilDhandhiya&theme=bear&hide_border=false&include_all_commits=true&count_private=true)
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DarshilDhandhiya&show_icons=true&locale=en&theme=bear" alt="DarshilDhandhiya" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DarshilDhandhiya&theme=bear&hide_border=false)
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshilDhandhiya&theme=bear" alt="DarshilDhandhiya" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilDhandhiya&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilDhandhiya&layout=compact&theme=bear" alt=DarshilDhandhiya />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DarshilDhandhiya&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DarshilDhandhiya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
