@@ -4,7 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-[![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]()<br><br>
+[![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]()
+
 🔭 I’m currently working on Internship<br>🌱 I’m currently learning JS, NodeJS, Python<br>💬 Ask me about JS, Graphic Design<br>📫 How to reach me darshil.dhandhiya03@gmail.com<br>⚡ Fun fact "The only way to do great work is to love what you do." <br>  - Steve Jobs <br><br>
 
 ## 🌐 Socials:
@@ -30,8 +31,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DarshilDhandhiya&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DarshilDhandhiya&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DarshilDhandhiya&theme=bear&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DarshilDhandhiya&theme=bear&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilDhandhiya&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
