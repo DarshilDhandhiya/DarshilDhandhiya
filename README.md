@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
 <h1 align="center">Hi 👋, I'm Darshil Dhandhiya</h1>
 <h2 align="center">I'm a passionate software developer with a love for creating innovative solutions.</h2>
@@ -8,16 +6,21 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]()
 
-🔭 I’m currently working on Internship<br>🌱 I’m currently learning JS, NodeJS, Python<br>💬 Ask me about JS, Graphic Design<br>📫 How to reach me darshil.dhandhiya03@gmail.com<br>⚡ Fun fact "The only way to do great work is to love what you do." <br>  - Steve Jobs <br><br>
+- 🔭 I’m currently working on **Internship**
+- 🌱 I’m currently learning **MERN, Python**
+- 💬 Ask me about **MERN, Graphic Design**
+- 📫 How to reach me **darshil.dhandhiya03@gmail.com**
+- 📝 I regularly write articles on **Medium**
+- ⚡ Fun fact **"The only way to do great work is to love what you do." -Steve Jobs**
 
-## 🌐 Socials:
+
+# 🌐 Socials:
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/darshildhandhiya/)
 [![My Skills](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/Darshil03)
 [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/DarshilDhandhiya)
 [![My Skills](https://skills.thijs.gg/icons?i=devto)](https://dev.to/darshildhandhiya)
 
 # 💻 Tech Stack:
-
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,bootstrap)](https://skills.thijs.gg)
