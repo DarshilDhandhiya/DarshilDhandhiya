@@ -34,7 +34,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=firebase,postman)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=vite,vercel,netlify)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=aws,gcp)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=gcp,aws)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=photoshop,figma)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg)
 
