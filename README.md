@@ -38,7 +38,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=figma,photoshop)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DarshilDhandhiya&show_icons=true&locale=en&theme=bear" alt="DarshilDhandhiya" /></p>
 
@@ -47,7 +47,7 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilDhandhiya&layout=compact&theme=bear" alt=DarshilDhandhiya />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DarshilDhandhiya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DarshilDhandhiya&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
