@@ -23,7 +23,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/Darshil03)
 [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/DarshilDhandhiya)
 [![My Skills](https://skills.thijs.gg/icons?i=devto)](https://dev.to/darshildhandhiya)
-
+<!-- 
 # 💻 Tech Stack:
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python)](https://skills.thijs.gg)
 
@@ -38,7 +38,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=figma,photoshop)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg)
 
-<!-- # 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DarshilDhandhiya&show_icons=true&locale=en&theme=bear" alt="DarshilDhandhiya" /></p>
 
