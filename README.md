@@ -19,7 +19,7 @@
 ⚡ Fun fact **"The only way to do great work is to love what you do." -Steve Jobs**
 
 # 🌐 Socials:
-[![My Skills](https://skills.thijs.gg/icons?i=gmail)](mailto:"darshil.dhandhiya03@gmail.com")
+[![My Skills](https://skills.thijs.gg/icons?i=gmail)](href="mailto:darshil.dhandhiya03@gmail.com")
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/darshildhandhiya/)
 [![My Skills](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/Darshil03)
 [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/DarshilDhandhiya)
