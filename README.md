@@ -19,15 +19,18 @@
 ⚡ Fun fact **"The only way to do great work is to love what you do." -Steve Jobs**
 
 # 🌐 Socials:
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=darshil.dhandhiya03@gmail.com)
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/darshildhandhiya/)
 [![My Skills](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/Darshil03)
 [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/DarshilDhandhiya)
 [![My Skills](https://skills.thijs.gg/icons?i=devto)](https://dev.to/darshildhandhiya)
 
-# 💻 Tech Stack:
+
+<!-- # 💻 Tech Stack:
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,bootstrap)](https://skills.thijs.gg)
+
 [![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,express,mongodb,)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=php,mysql)](https://skills.thijs.gg)
@@ -36,7 +39,16 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=gcp,aws)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=figma,photoshop)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg) -->
+
+# 💻 Tech Stack:
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,express,mongodb,)](https://skills.thijs.gg)<br>
+
+[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,firebase,postman)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=vite,vercel,netlify,gcp,aws)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=figma,photoshop,git,github,)](https://skills.thijs.gg)
 
 # 📊 GitHub Stats:
 
