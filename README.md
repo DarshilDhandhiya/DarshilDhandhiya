@@ -42,12 +42,12 @@
 [![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg) -->
 
 # 💻 Tech Stack:
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python)](https://skills.thijs.gg) - 
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,bootstrap)](https://skills.thijs.gg) - 
 [![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,express,mongodb,)](https://skills.thijs.gg)<br>
 
-[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,firebase,postman)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=vite,vercel,netlify,gcp,aws)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,firebase,postman)](https://skills.thijs.gg) - 
+[![My Skills](https://skills.thijs.gg/icons?i=vite,vercel,netlify,gcp,aws)](https://skills.thijs.gg) - 
 [![My Skills](https://skills.thijs.gg/icons?i=figma,photoshop,git,github,)](https://skills.thijs.gg)
 
 # 📊 GitHub Stats:
