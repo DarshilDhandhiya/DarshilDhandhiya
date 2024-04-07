@@ -6,8 +6,6 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]()
 
-[![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]()
-
 🔭 I’m currently working on **Internship**
   
 🌱 I’m currently learning **MERN, Python**
