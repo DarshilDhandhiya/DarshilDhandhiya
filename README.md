@@ -50,6 +50,26 @@
 [![My Skills](https://skills.thijs.gg/icons?i=vite,vercel,netlify,gcp,aws)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=figma,photoshop,git,github,)](https://skills.thijs.gg)
 
+# 💻 Tech Stack:
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,express,mongodb)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=firebase,postman)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=vite,vercel,netlify)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=gcp,aws)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=figma,photoshop)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github)](https://skills.thijs.gg)
+
+# 💻 Tech Stack:
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,java,python)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,express,mongodb,)](https://skills.thijs.gg)<br>
+
+[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,firebase,postman)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=vite,vercel,netlify,gcp,aws)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=figma,photoshop,git,github,)](https://skills.thijs.gg)
+
 # 📊 GitHub Stats:
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DarshilDhandhiya&show_icons=true&locale=en&theme=bear" alt="DarshilDhandhiya" /></p>
