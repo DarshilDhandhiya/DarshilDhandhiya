@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-[![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]
+[![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]()
 
 🔭 I’m currently working on **Internship**
   
