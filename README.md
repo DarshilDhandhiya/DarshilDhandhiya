@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me:
-[![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]()
+[![](https://visitcount.itsvg.in/api?id=DarshilDhandhiya&icon=0&color=0)]
 
 🔭 I’m currently working on **Internship**
   
@@ -19,11 +19,11 @@
 ⚡ Fun fact **"The only way to do great work is to love what you do." -Steve Jobs**
 
 # 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=gmail,)](https://mail.google.com/mail/?view=cm&fs=1&to=darshil.dhandhiya03@gmail.com)
-[![My Skills](https://skills.thijs.gg/icons?i=linkedin,)](https://www.linkedin.com/in/darshildhandhiya/)
-[![My Skills](https://skills.thijs.gg/icons?i=twitter,)](https://twitter.com/Darshil03)
-[![My Skills](https://skills.thijs.gg/icons?i=github,)](https://github.com/DarshilDhandhiya)
-[![My Skills](https://skills.thijs.gg/icons?i=devto,)](https://dev.to/darshildhandhiya)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=darshil.dhandhiya03@gmail.com)
+[![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/darshildhandhiya/)
+[![My Skills](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/Darshil03)
+[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/DarshilDhandhiya)
+[![My Skills](https://skills.thijs.gg/icons?i=devto)](https://dev.to/darshildhandhiya)
 
 
 <!-- # 💻 Tech Stack:
