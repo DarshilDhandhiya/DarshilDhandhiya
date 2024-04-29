@@ -23,7 +23,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/darshildhandhiya/)
 [![My Skills](https://skills.thijs.gg/icons?i=twitter)](https://twitter.com/Darshil03)
 [![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/DarshilDhandhiya)
-[![My Skills](https://skills.thijs.gg/icons?i=devto)](https://dev.to/darshildhandhiya)
+<!-- [![My Skills](https://skills.thijs.gg/icons?i=devto)](https://dev.to/darshildhandhiya) -->
 
 
 <!-- # 💻 Tech Stack:
