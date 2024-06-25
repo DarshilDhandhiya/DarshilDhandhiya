@@ -24,29 +24,46 @@
 <a href="https://twitter.com/Darshil03"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter"></a>
 <a href="https://github.com/DarshilDhandhiya"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"></a>
 
-
 # 💻 Tech Stack:
 
 <table>
   <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>🚀 Programming Languages</strong></td>
     <td><img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" alt="C, C++, Java, Python"></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, Tailwind CSS, Bootstrap"></td>
+    <td><strong>🌐 Frontend Development</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap"></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="React, Node.js, Express, MongoDB"></td>
+    <td><strong>🔧 Backend Development</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" alt="Node.js, Express, PHP"></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=php,mysql,firebase,postman&theme=dark" alt="PHP, MySQL, Firebase, Postman"></td>
+    <td><strong>🗄️ Databases</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" alt="MongoDB, MySQL, Firebase"></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=vite,vercel,netlify,gcp,aws&theme=dark" alt="Vite, Vercel, Netlify, GCP, AWS"></td>
+    <td><strong>⚙️ Development Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=postman,git,github,vite&theme=dark" alt="Postman, Git, GitHub, Vite"></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=figma,photoshop,git,github&theme=dark" alt="Figma, Photoshop, Git, GitHub"></td>
+    <td><strong>☁️ Deployment & Cloud</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=vercel,netlify,gcp,aws&theme=dark" alt="Vercel, Netlify, GCP, AWS"></td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Design Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="Figma, Photoshop"></td>
   </tr>
 </table>
+
+
+
+
 
 
 # 📊 GitHub Stats:
