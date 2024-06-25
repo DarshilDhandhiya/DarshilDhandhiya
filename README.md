@@ -26,13 +26,28 @@
 
 
 # 💻 Tech Stack:
-<img src = "https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark">
-<img src = "https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap&theme=dark">
-<img src = "https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark">
 
-<img src = "https://skillicons.dev/icons?i=php,mysql,firebase,postman&theme=dark">
-<img src = "https://skillicons.dev/icons?i=vite,vercel,netlify,gcp,aws&theme=dark">
-<img src = "https://skillicons.dev/icons?i=figma,photoshop,git,github,&theme=dark">
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" alt="C, C++, Java, Python"></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, Tailwind CSS, Bootstrap"></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="React, Node.js, Express, MongoDB"></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=php,mysql,firebase,postman&theme=dark" alt="PHP, MySQL, Firebase, Postman"></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=vite,vercel,netlify,gcp,aws&theme=dark" alt="Vite, Vercel, Netlify, GCP, AWS"></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=figma,photoshop,git,github&theme=dark" alt="Figma, Photoshop, Git, GitHub"></td>
+  </tr>
+</table>
+
 
 # 📊 GitHub Stats:
 
